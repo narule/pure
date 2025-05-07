@@ -1,0 +1,11 @@
+# ignoredBuiltDependencies:
+#   - esbuild
+#   - sharp
+# onlyBuiltDependencies:
+#   - esbuild
+#   - sharp
+
+packages:
+  - "packages/pure"
+  - "*"
+
